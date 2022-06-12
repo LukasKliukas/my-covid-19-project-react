@@ -1,3 +1,17 @@
 .container {
-  background-color: aqua;
+  border: 2px solid rgb(253, 135, 0);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.logo {
+  width: 6rem;
+}
+.link {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: rgb(0, 0, 0);
+}
+.link:hover {
+  color: rgb(253, 135, 0);
 }
