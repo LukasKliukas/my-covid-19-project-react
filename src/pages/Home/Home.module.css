@@ -3,3 +3,6 @@
   grid-template-columns: 1fr 1fr 1fr;
   margin: 0rem 5rem;
 }
+.inputDiv {
+  margin: 0 auto;
+}

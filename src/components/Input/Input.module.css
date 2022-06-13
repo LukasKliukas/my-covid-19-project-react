@@ -1,0 +1,13 @@
+.inputDiv {
+  margin: 0.2rem auto;
+  max-width: 40rem;
+}
+.label {
+  margin: 0 0.5rem;
+}
+.input {
+  border: 2px solid rgb(253, 135, 0);
+  border-radius: 1rem;
+  width: 25rem;
+  max-width: 25rem;
+}
