@@ -1,5 +1,4 @@
 import React from 'react';
-import css from './Country.module.css';
 import { useParams } from 'react-router-dom';
 import Card from '../../components/Card/Card';
 import { useState, useEffect } from 'react';

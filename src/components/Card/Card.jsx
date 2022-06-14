@@ -1,5 +1,5 @@
 import React from 'react';
-import { generatePath, NavLink, useParams } from 'react-router-dom';
+import { generatePath, NavLink } from 'react-router-dom';
 import css from './Card.module.css';
 
 const Card = ({ countryInfo }) => {
