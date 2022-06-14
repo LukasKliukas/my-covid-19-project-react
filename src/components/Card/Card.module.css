@@ -24,3 +24,7 @@
   font-size: 1rem;
   margin: 0.5rem auto;
 }
+.navLink {
+  text-decoration: none;
+  color: inherit;
+}

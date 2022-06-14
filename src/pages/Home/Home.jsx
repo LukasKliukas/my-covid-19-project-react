@@ -22,7 +22,6 @@ const Home = () => {
     try {
       const resp = await fetch(`${API_URL}/countries`);
       const dataFromApi = await resp.json();
-      console.log('dataFromApi ===', dataFromApi);
       setCountriesArr(dataFromApi);
       setSearchResult(dataFromApi);
       return dataFromApi;
