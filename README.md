@@ -11,4 +11,4 @@ This is an application created by me, which uses Covid-API to show statistics of
 
 ## How to use this app
 
-When you oppen the app, you can see all list of countries with covid-19 statistics. If you want, you can use searchbar to search for a country that matches your querry.
+When you open the app, you can see all list of countries with covid-19 statistics. If you want, you can use searchbar to search for a country that matches your querry.
