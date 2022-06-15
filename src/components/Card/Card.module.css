@@ -10,7 +10,6 @@
 }
 .card:hover {
   box-shadow: 4px 4px 2px rgb(175, 175, 175);
-  cursor: pointer;
 }
 
 .card img {
